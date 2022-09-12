@@ -16,5 +16,6 @@ public class HelloApplication {
         String name = scanner.nextLine();
 
         System.out.println("Hello " + name);
+        // CHANGEEEEE
     }
 }
